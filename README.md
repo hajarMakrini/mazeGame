@@ -1,4 +1,4 @@
-![Maze Game Logo](mazeGame/readme_images
+![Maze Game Logo](readme_images
 /mazeLogo.jpeg)
 
 # Welcome to the Maze Game Project! 🎮
