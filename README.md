@@ -1,6 +1,3 @@
-![Maze Game Logo](readme_images
-/mazeLogo.jpeg)
-
 # Welcome to the Maze Game Project! 🎮
 
 Explore the depths of our 3D maze adventure crafted using SDL2 and raycasting techniques. Transforming a flat 2D map into an immersive 3D world, get ready to navigate through intricate corridors and challenge yourself to find... the non-existent exit! 🌌
